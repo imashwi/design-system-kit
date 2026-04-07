@@ -17,6 +17,21 @@ Purpose
 
 To simplify design-to-development workflows and maintain UI consistency across projects.
 
+## Components
+- Button  
+- Card  
+- Input  
+- Navbar  
+- Badge  
+- Modal  
+- Grid  
+
+## Future Plans
+- More UI components  
+- Layout systems  
+- Design token expansion  
+- Documentation improvements
+
 Status
 
 🚧 In active development
